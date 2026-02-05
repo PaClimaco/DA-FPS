@@ -1,0 +1,16 @@
+# requirements.txt
+
+tqdm
+numpy
+scipy
+h5py
+pandas
+seaborn
+matplotlib
+scikit-learn
+scikit-learn-extra
+apricot-select==0.6.1
+rdkit
+mordred==1.2.0
+torch>=2.2
+torch-geometric==2.4.0
